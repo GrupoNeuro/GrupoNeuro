@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Euge, from @GrupoNeuro
 - 👀 We are a team working on neurosciences and cognitive disorders
 - 🌱 I’m currently learning how to perform bioinformatic analysis :)
-- 💞️ I’m looking to collaborate on anything Alzheimer related!
+- 💞️ We are looking to collaborate on anything Alzheimer related!
 - 📫 How to reach us: gruponeurobiologia@gmail.com
 
 <!---
